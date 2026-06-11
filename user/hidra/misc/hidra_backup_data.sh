@@ -18,7 +18,7 @@ LOCAL_DIR_LOG="${EUDAQHIDRA}/run/logs"
 BACKUP_DIR_LOG="/home/eudaq/cernbox/TB2026_H8/logs"
 LOCAL_DIR_TRACKER_DATA="/home/eudaq/TB2026_TrackerData"
 BACKUP_DIR_TRACKER_DATA="/home/eudaq/cernbox/TB2026_H8/tracker_data"
-BACKUP_DATE_FILE="/home/TB2026_H8_last_backup_dates.log"
+BACKUP_DATE_FILE="/home/eudaq/TB2026_H8_last_backup_dates.log"
 
 ##############################################################################
 # Transfer
